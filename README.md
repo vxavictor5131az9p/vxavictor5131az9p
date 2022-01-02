@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**vxavictor5131az9p/vxavictor5131az9p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔭 Current Project:** Hack Club Summer of Making
 
-Here are some ideas to get you started:
+**🌱 Currently Learning:** ReactJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🤔 Thinking about:** STEM Education
+
+**📫 Email me:** hi@sampoder.com
+
+**😄 Pronouns:** he/him/his
+
+Here are some random photos from my life:
+
+<img src ="https://github.com/sampoder/sampoder/raw/master/GOPR5263.JPG" height = "200px">  <img src ="https://github.com/sampoder/sampoder/raw/master/IMG_0269.jpg" height = "200px"> <img src ="https://github.com/sampoder/sampoder/raw/master/IMG_20190427_185037401.jpg/" height = "200px">
